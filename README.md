@@ -23,4 +23,4 @@ I'm JR, a Statistics graduate and HR Analyst specializing in workforce analytics
 
 ---
 
-_“Turning workforce data into actionable insights — one dataset at a time.”_
+_“Turning data into actionable insights — one dataset at a time.”_
