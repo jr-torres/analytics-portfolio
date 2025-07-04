@@ -5,9 +5,11 @@
 
 ---
 
-I'm JR, a Statistics graduate with advanced expertise in statistical analysis and methodological design. I specialize in deriving rigorous, actionable insights from complex datasets using techniques such as ANOVA, regression modeling, PLS-SEM, meta-analysis, and multivariate analysis (Cluster Analysis, Factor Analysis, PCA). My experience spans survey methodologies, experimental design, simulation-based validation, and statistical consulting which enable precise analysis across diverse research domains. I emphasize methodological integrity by applying robust tools  to ensure the clarity, reliability, and reproducibility of findings. I utilize R and Python for deliverables and provide clear and concise write-ups for clients. I also have experience in visualizing results and drive decision-making using Power BI. 
+I'm JR, a Statistics graduate with advanced expertise in statistical analysis and methodological design. I specialize in deriving rigorous, actionable insights from complex datasets using techniques such as ANOVA (including mixed and repeated measures), regression modeling, Partial Least Squares Structural Equation Modeling (PLS-SEM), meta-analysis, and multivariate analysis including Cluster Analysis, Factor Analysis, and Principal Component Analysis (PCA).
 
-I am currently working as an HR Analysts focused on workforce analytics, and have a background on Marketing Analytics specializing in econometrics. Both have significantly trained me to apply statistical theories to solve real-life problems and support researches.
+My experience spans survey methodologies, experimental design, simulation-based validation, and statistical consulting—enabling precise and methodologically sound analysis across diverse research domains. I drive impactful outcomes by selecting and applying the most appropriate statistical techniques aligned with research objectives, ensuring data integrity through meticulous cleaning and preprocessing, and delivering compelling visualizations and summaries for both technical and non-technical audiences. I leverage R and Python to execute statistical workflows, utilize Power BI for dynamic data visualization, and craft clear, concise reports to communicate findings with clarity and purpose.
+
+Currently, I serve as an HR Analyst specializing in workforce analytics, and I previously worked in marketing analytics with a focus on econometrics—experiences that refined my ability to translate statistical theory into practical, data-driven decisions and strategic research support.
 
 ## 🔎 What I Do
 - Statistical Research & Consultation
