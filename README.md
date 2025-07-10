@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JR Torres
+# 👋 Hi, I'm JR Torres, your Statistics Guy!
 
 **Location:** Philippines  
 **Contact:** [LinkedIn](https://www.linkedin.com/in/jrmtorres) | [Email](mailto:jrtorres2826@gmail.com)
